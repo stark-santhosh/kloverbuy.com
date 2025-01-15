@@ -56,7 +56,7 @@ pipeline {
                 // Send an email notification using emailext plugin
                 emailext(
                     attachLog: true,
-                    to: 'abdulajees.gts@gmail.com, ahamedhussain.gts@gmail.com , raghul03.gtech@gmail.com, prathees1987@gmail.com',
+                    to: 'santhosh.gts@gmil.com, abdulajees.gts@gmail.com, ahamedhussain.gts@gmail.com , raghul03.gtech@gmail.com, prathees1987@gmail.com',
                     subject: '$DEFAULT_SUBJECT',
                     body: '''Hello Team,
 
