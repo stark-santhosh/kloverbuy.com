@@ -47,7 +47,8 @@ In this project, I handled the following tasks:
 - **Cloud Platform**: AWS ☁️  
 - **DNS Management**: GoDaddy 🌐  
 - **CI/CD**: Jenkins 🔄  
-- **Collaboration Tool**: Jira 🛠️  
+- **Collaboration Tool**: Jira 🛠️
+- **Language Used**: node js
 
 ---
 
