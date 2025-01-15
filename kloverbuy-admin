@@ -87,7 +87,7 @@ If you encounter any issues, kindly report them by replying to this email, and o
                     recipientProviders: [buildUser(), requestor(), developers()],
                     replyTo: 'ajees@gtechwebsolutions.com',
                     subject: '$DEFAULT_SUBJECT',
-                    to: 'abdulajees.gts@gmail.com, ahamedhussain.gts@gmail.com,  dev@gtechwebsolutions.com ,raghul03.gtech@gmail.com'
+                    to: 'abdulajees.gts@gmail.com, santhosh.gts@gmil.com, ahamedhussain.gts@gmail.com,  dev@gtechwebsolutions.com ,raghul03.gtech@gmail.com'
                 )
             }
         }
