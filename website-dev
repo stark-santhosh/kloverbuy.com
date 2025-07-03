@@ -18,7 +18,7 @@ pipeline {
         stage('Build') {
             steps {
                 nodejs(cacheLocationStrategy: workspace(), nodeJSInstallationName: '18.14.0') {
-                    // Your build steps go here
+                    // Your build steps g here
                     // For example:
                     sh 'npm install'
                     sh 'npm run build'
